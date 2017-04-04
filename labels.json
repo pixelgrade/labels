@@ -10,8 +10,8 @@
   { "name": "[Type] Invalid", "color": "#ededed" },
   { "name": "[Type] Wont fix", "color": "#ffffff" },
   { "name": "[Status] Needs review", "color": "#fce16c" },
+  { "name": "[Status] Needs feedback", "color": "#d4c5f9" },
   { "name": "[Status] Needs design", "color": "#C0FFF2" },
-  { "name": "[Status] Help wanted", "color": "#d4c5f9" },
   { "name": "Front-end", "color": "#eb6420" },
   { "name": "Back-end", "color": "#0052cc" },
   { "name": "UI / UX", "color": "#0bb5ab" },
@@ -21,5 +21,13 @@
   { "name": "[Docs] Missing", "color": "#00A0B0" },
   { "name": "[Docs] Outdated", "color": "#6A4A3C" },
   { "name": "[Docs] Tips & Tricks", "color": "#5319e7" },
-  { "name": "[Docs] Unclear", "color": "#EDC951" }
+  { "name": "[Docs] Unclear", "color": "#EDC951" },
+  { "name": "[Pri] BLOCKER", "color": "#e84d10" },
+  { "name": "[Pri] High", "color": "#ec9a71" },
+  { "name": "[Pri] Normal", "color": "#f9d0c4" },
+  { "name": "[Pri] Low", "color": "#fef2c0" },
+  { "name": "[Size] XL", "color": "#390036" },
+  { "name": "[Size] L", "color": "#550e52" },
+  { "name": "[Size] M", "color": "#8d478a" },
+  { "name": "[Size] S", "color": "#aa71a7" }
 ]
